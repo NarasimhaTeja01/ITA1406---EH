@@ -1,0 +1,6 @@
+{
+  "name": "AI Driven IoT Device Security and Attack Prevention System",
+  "description": "Enterprise-grade IoT cybersecurity and attack prevention platform with real-time AI anomaly detection, SOC telemetry, and automated mitigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
